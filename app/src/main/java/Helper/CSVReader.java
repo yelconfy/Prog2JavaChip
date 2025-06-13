@@ -18,7 +18,7 @@ import java.util.ArrayList;
  */
 public class CSVReader implements ICSVReader {
 
-    private final String credCsvFile = "C:\\Users\\eyell\\OneDrive\\Documents\\School\\CredCSV.csv";
+//    private final String credCsvFile = "C:\\Users\\eyell\\OneDrive\\Documents\\School\\CredCSV.csv";
     private final String attendanceCsvFile = "C:\\Users\\eyell\\OneDrive\\Documents\\School\\CredCSV.csv"; // CHANGE CredCSV.csv TO ATTENDANCE CSV
     private final String empDataCsvFile = "C:\\Users\\eyell\\OneDrive\\Documents\\School\\CredCSV.csv"; // CHANGE CredCSV.csv TO EMPLOYEE DATA CSV
     private String line;
